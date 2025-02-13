@@ -1,0 +1,14 @@
+D:\c#\DVLD_Buisness\bin\Debug\DVLD_Buisness.exe.config
+D:\c#\DVLD_Buisness\bin\Debug\DVLD_Buisness.exe
+D:\c#\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+D:\c#\DVLD_Buisness\bin\Debug\DVLD_DataAccess.exe
+D:\c#\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+D:\c#\DVLD_Buisness\bin\Debug\DVLD_DataAccess.exe.config
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness2.csproj.AssemblyReference.cache
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness2.csproj.SuggestedBindingRedirects.cache
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness.Properties.Resources.resources
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness2.csproj.GenerateResource.cache
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness2.csproj.CoreCompileInputs.cache
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness2.csproj.CopyComplete
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness.exe
+D:\c#\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb

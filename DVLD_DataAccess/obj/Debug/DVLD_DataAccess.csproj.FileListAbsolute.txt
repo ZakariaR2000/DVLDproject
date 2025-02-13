@@ -1,0 +1,10 @@
+D:\c#\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.exe.config
+D:\c#\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.exe
+D:\c#\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\c#\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\c#\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.SuggestedBindingRedirects.cache
+D:\c#\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.Properties.Resources.resources
+D:\c#\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.GenerateResource.cache
+D:\c#\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\c#\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.exe
+D:\c#\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
